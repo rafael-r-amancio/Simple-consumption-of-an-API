@@ -26,6 +26,7 @@ dados_brutos.csv: contém todos os dados meteorológicos fornecidos pelo serviç
 temperaturas.csv: contém as temperaturas mínimas, máximas e atuais para cada dia.
 condicoes.csv: contém as condições meteorológicas (descrição e ícone) para cada dia.
 
+
 [English]
 Description
 
