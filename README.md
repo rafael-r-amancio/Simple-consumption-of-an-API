@@ -1,5 +1,5 @@
 
-[Portuguese]
+📚[Portuguese]
 Descrição
 
 Este projeto é um script Python que coleta dados meteorológicos de uma cidade específica por uma semana. Os dados são obtidos do serviço VisualCrossing Weather.
@@ -26,8 +26,9 @@ dados_brutos.csv: contém todos os dados meteorológicos fornecidos pelo serviç
 temperaturas.csv: contém as temperaturas mínimas, máximas e atuais para cada dia.
 condicoes.csv: contém as condições meteorológicas (descrição e ícone) para cada dia.
 
+<br>
 
-[English]
+📚[English]
 Description
 
 This project is a Python script that collects weather data for a specific city for a week. Data is obtained from the VisualCrossing Weather service.
