@@ -27,7 +27,6 @@ temperaturas.csv: contém as temperaturas mínimas, máximas e atuais para cada 
 condicoes.csv: contém as condições meteorológicas (descrição e ícone) para cada dia.
 
 [English]
-
 Description
 
 This project is a Python script that collects weather data for a specific city for a week. Data is obtained from the VisualCrossing Weather service.
